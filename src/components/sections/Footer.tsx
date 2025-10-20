@@ -56,7 +56,7 @@ export const Footer = () => {
           {/* Bottom Bar */}
           <div className="pt-8 border-t border-border text-center">
             <p className="text-sm text-muted-foreground flex items-center justify-center gap-2">
-              © {currentYear} Brayan Mlawa. Built with 
+              © {currentYear} Brayan Mlawa.
             </p>
           </div>
         </div>
